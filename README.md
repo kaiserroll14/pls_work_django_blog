@@ -1,0 +1,1 @@
+# pls_work_django_blog
